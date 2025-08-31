@@ -1,6 +1,6 @@
 {
   "name": "João Victor Lopes",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/155036709?v=4",
   "job": "Procurando Emprego",
   "location": "Santos - SP",
   "phone": "(13) 99745-2613",
@@ -8,8 +8,8 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": ".net",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/microsoft.net.svg"
       },
       {
         "name": "Angular",
